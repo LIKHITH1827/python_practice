@@ -19,7 +19,7 @@ for names,data in l.items():
 
 
 d=dict(d)
-print(d)
+#print(d)
 print(type(d))
 
 
